@@ -9,8 +9,8 @@ Este buscador permite buscar y copiar las URL de los Gifs. Además, guarda de fo
 Puedes correr localmente este proyecto instalandolo con NPM.
 
 ```bash
-  git clone ...
-  cd gif-expert-app
-  npm i gif-expert-app
+  git clone https://github.com/GustavoSmith/gusphy-app.git
+  cd gusphy-app
+  npm i
   npm run dev
 ```
